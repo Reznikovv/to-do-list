@@ -1,9 +1,9 @@
 import './src/style.css';
 
 const tasks = [
-    { id: 1, text: 'Купить хлеб', completed: false },
-    { id: 2, text: 'Позвонить другу', completed: true },
-    { id: 3, text: 'Сделать домашку', completed: false }
+    { id: 1, text: 'Быть мамой', completed: false },
+    { id: 2, text: 'Дать списать', completed: true },
+    { id: 3, text: 'Убрать туалет', completed: false }
 ];
 
 let nextId = 4;
